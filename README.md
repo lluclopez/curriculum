@@ -36,6 +36,6 @@ Overall, the design of my resume aligns with a professional presentation, ensuri
 
 https://www.figma.com/file/YEtt6q5LgrXIOnjO0fyJ1s/Untitled?type=design&node-id=0%3A1&mode=design&t=pZlR9OddOsKawpc1-1
 
-# public link to my page:
+# Public link to my page:
 
 https://multimedia-lluc-curriculum.on.drv.tw/Curriculum/Curriculum.html
